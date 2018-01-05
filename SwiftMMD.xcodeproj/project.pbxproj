@@ -34,6 +34,7 @@
 		AA91C8351BFD5A990062152C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AA91C8421BFD5B3E0062152C /* MultiMarkdown.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MultiMarkdown.swift; sourceTree = "<group>"; };
 		AA91C8451BFD84FB0062152C /* libMultiMarkdown.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = libMultiMarkdown.h; path = "submodules/MultiMarkdown-5/src/libMultiMarkdown.h"; sourceTree = "<group>"; };
+		B86FBB2E20002C9700C26720 /* README.markdown */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.markdown; sourceTree = "<group>"; };
 		E0AB57581E5E26D8004EC69F /* libMultiMarkdown.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libMultiMarkdown.a; path = "submodules/MultiMarkdown-5/build/libMultiMarkdown.a"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -60,6 +61,7 @@
 		AA91C81A1BFD5A990062152C = {
 			isa = PBXGroup;
 			children = (
+				B86FBB2E20002C9700C26720 /* README.markdown */,
 				AA91C8261BFD5A990062152C /* SwiftMMD */,
 				AA91C8491BFD85050062152C /* Multimarkdown */,
 				AA91C8321BFD5A990062152C /* SwiftMMDTests */,
